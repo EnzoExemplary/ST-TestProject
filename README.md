@@ -7,6 +7,6 @@ HOW TO USE:
 4. You can hit the 'Start' button a second time after the program has stopped and the 'ant' will continue from the centre square
 
 Note:
-*Directions and colours are hard coded into Util.java
-*ColourReference[] defines the order colours, tiles will change colour sequentially according this array
-*The method getDirection() defines which direction to turn on each colour, these can be swapped around as required to generate certain patterns
+<br>*Directions and colours are hard coded into Util.java
+<br>*ColourReference[] defines the order colours, tiles will change colour sequentially according this array
+<br>*The method getDirection() defines which direction to turn on each colour, these can be swapped around as required to generate certain patterns
